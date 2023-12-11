@@ -1,1 +1,4 @@
-TARGET DEVOPES
+create file name docker file
+add instruction in docker file
+buld docker file create image
+run image create cointner
